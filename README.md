@@ -1,5 +1,7 @@
 # Focumon for Anki
 
+<img width="30%" height="auto" alt="Focumon" src="https://github.com/user-attachments/assets/bc0a46ff-7416-4ba3-9194-e4806c9c8359" />
+
 **Focumon for Anki** brings the gamified focus experience of [Focumon](https://www.focumon.com) directly into your Anki workflow. Collect monsters, level up, and stay motivated to review your flashcards!
 
 <img width="60%" height="auto" alt="image" src="https://github.com/user-attachments/assets/6017c630-e98c-4dbf-aacc-1101660ad71a" />
