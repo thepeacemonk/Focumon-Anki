@@ -119,7 +119,7 @@ class WelcomeDialog(QDialog):
         # "for Anki" Badge
         badge_btn = QPushButton("for Anki")
         badge_btn.setCursor(Qt.CursorShape.PointingHandCursor)
-        badge_btn.clicked.connect(lambda: QDesktopServices.openUrl(QUrl("https://ankiweb.net/shared/info/")))
+        badge_btn.clicked.connect(lambda: QDesktopServices.openUrl(QUrl("https://ankiweb.net/shared/info/516325516")))
         badge_btn.setFixedWidth(120) # Small fixed width or let it size? "small phrase". 120 is fine.
         # Actually letting it autosize with padding is better, but centered.
         # To center a button in QVBoxLayout, we need to set alignment or put in a container.

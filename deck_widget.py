@@ -34,7 +34,10 @@ def generate_css():
         #focumon-widget-container {{
             position: relative;
             display: inline-block;
-            margin: 20px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 6.875px;
+            margin-right: 6.875px;
         }}
         
         #focumon-widget {{
